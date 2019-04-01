@@ -36,7 +36,6 @@ cara
 cara berlauk
 cek mek molek
 cekodok pisang
-cekodok pisang sedap
 cempedak goreng rangup
 churros
 cucur badak
@@ -58,7 +57,6 @@ jongkong
 jongkong kelapa muda
 karipap
 karipap kentang ayam
-karipap mudah
 kasturi (kuih kacang)
 kaswi
 kentang wedges bersalut
@@ -67,8 +65,6 @@ koci
 koci labu
 kuih bakar pandan
 kuih bom
-kuih cara
-kuih cara berlauk
 kuih gulung (ketayap)
 kuih jagung
 kuih kacang hijau
@@ -101,6 +97,8 @@ nagasari
 pai tee
 pau gebu dan lembut
 pau goreng
+pau ayam
+pau kacang
 pau kukus
 pizza mini
 popia goreng
